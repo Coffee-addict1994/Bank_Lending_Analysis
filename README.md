@@ -1,0 +1,1 @@
+This Power BI dashboard is designed to assess bank loan eligibility by analyzing applicants' data across various factors such as income, credit score, employment status, key financial and demographic criteria.
